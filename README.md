@@ -1,1 +1,1 @@
-# Object_Detection_of_BirdSpecies_using_TensorflowObjectDetectionAPI_Freelance
+# Object Detection of Bird Species using Tensorflow Object Detection API Freelance Work
